@@ -1,7 +1,7 @@
 Waggox Core staging tree 0.12.3
 ===============================
 
-`master:` [![Build Status](https://travis-ci.org/waggoxpay/waggox.svg?branch=master)](https://travis-ci.org/waggoxpay/waggox) `develop:` [![Build Status](https://travis-ci.org/waggoxpay/waggox.svg?branch=develop)](https://travis-ci.org/waggoxpay/waggox/branches)
+`master:` [![Build Status](https://travis-ci.org/dashpay/dash.svg?branch=master)](https://travis-ci.org/dashpay/dash) `develop:` [![Build Status](https://travis-ci.org/dashpay/dash.svg?branch=develop)](https://travis-ci.org/dashpay/dash/branches)
 
 https://waggok.tech
 
