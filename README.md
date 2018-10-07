@@ -3,7 +3,7 @@ Waggox Core staging tree 0.12.3
 
 `master:` [![Build Status](https://travis-ci.org/waggoxpay/waggox.svg?branch=master)](https://travis-ci.org/waggoxpay/waggox) `develop:` [![Build Status](https://travis-ci.org/waggoxpay/waggox.svg?branch=develop)](https://travis-ci.org/waggoxpay/waggox/branches)
 
-https://www.waggox.org
+https://waggok.tech
 
 
 What is Waggox?
